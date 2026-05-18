@@ -9,7 +9,7 @@
 
 1. **HTML - disabled buttons** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-client/writeups/1.md)
 
-2. **Javascript - Source** — [read]()
+2. **Javascript - Source** — [read](https://github.com/TheGreenOfficial/root-me/blob/main/challenges/web-client/writeups/2.md)
 
 3. **Javascript - Authentication 2** — [read]()
 
