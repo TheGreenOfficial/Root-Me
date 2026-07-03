@@ -2,19 +2,11 @@
 
 I’m publishing **Root-Me writeups** here for learning and documentation purposes.
 
-If you want any content to be **private or removed**, just open an **issue** or notify me somehow.
-
-Honest Feedback:
-If you don't want that people solve all challanges from flags in writeups then better approach would be:
-- Rotate flags daily (or periodically)
-- Like in 2 days refresh flag randromly for all challenges.
-- Validate dynamically instead of static flags
-
-Please take it positively and don't ruin my hard work
-banning my github account I swear to god if something happens
-to this repo or my github account I will take revenge mind it...
+If you don't want that people solve all challanges from flags in writeups then:
+- Rotate flags periodically
+- Validate dynamically
 <br><br>
-Again, If you want any content to be **private or removed**, just open an **issue** or notify me somehow.
+If you want any content to be **private or removed**, just open an **issue** or notify me somehow.
 
 ---
 
