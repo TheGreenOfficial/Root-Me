@@ -41,8 +41,3 @@ If you want any content to be **private or removed**, just open an **issue** or 
 
 ---
 
-<div align="center">
-  
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=TheGreenOfficial%2FRoot-Me&label=VISITORS&countColor=%23263759)
-  
-</div>
