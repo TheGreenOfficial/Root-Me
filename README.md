@@ -41,9 +41,8 @@ If you want any content to be **private or removed**, just open an **issue** or 
 
 ---
 
-
 <div align="center">
   
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXredaX%2FRootMe-Challenge-Solutions&label=VISITORS&countColor=%23263759)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=TheGreenOfficial%2FRoot-Me&label=VISITORS&countColor=%23263759)
   
 </div>
